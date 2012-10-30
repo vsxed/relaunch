@@ -1,5 +1,3 @@
-﻿Title: Error
-
+Title: Error
 ----
-
-Text: (image: 01.jpg)
+Text: The page has not been found

@@ -1,17 +1,17 @@
-﻿Title: Eduard Mayer (WIP)
+﻿Title: Knowledge-Base
 
 ----
 
-Author: Eduard Mayer
+Author: Your company
 
 ----
 
-Description: Work in Progress
+Description: Knowledge-Base
 
 ----
 
-Keywords: pups
+Keywords: knowledge-base, something
 
 ----
 
-Copyright: © 2009-(date: Year) (link: http://bastianallgeier.com text: Eduard Mayer)
+Copyright: © 2012 Your company
