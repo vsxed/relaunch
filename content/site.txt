@@ -1,0 +1,17 @@
+﻿Title: Eduard Mayer (WIP)
+
+----
+
+Author: Eduard Mayer
+
+----
+
+Description: Work in Progress
+
+----
+
+Keywords: pups
+
+----
+
+Copyright: © 2009-(date: Year) (link: http://bastianallgeier.com text: Eduard Mayer)
